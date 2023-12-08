@@ -30,3 +30,4 @@ Client.create({lastname:"Obama", firstname:"Barack", address:"Washington"}).then
   console.log("The client is inserted into the collection", 
   doc);
 });
+// now testing in GitHub
